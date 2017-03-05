@@ -2,7 +2,7 @@
 
 ### Day 0: March 5, 2017
 
-**Today's Progress**: Worked on exercises for CS50 - completed 'Initials.c'
+**Today's Progress**: Worked on exercises for CS50 Week 2 - completed 'Initials.c'
 
 **Thoughts:** C is very different from Javascript. Simple programmes are taking me longer.
 
